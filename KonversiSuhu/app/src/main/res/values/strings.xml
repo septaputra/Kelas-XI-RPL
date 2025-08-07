@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="thermometer_icon">Ikon Termometer</string>
+    <string name="title_main">Aplikasi Konversi Suhu</string>
+    <string name="hint_input">Masukkan nilai suhu</string>
+    <string name="btn_convert">Konversi</string>
+    <string name="result_label">Hasil Konversi:</string>
+    <string name="select_unit">Pilih satuan suhu</string>
+    <string name="error_empty_input">Silakan masukkan nilai suhu!</string>
+    <string name="about_text">Aplikasi sederhana untuk mengkonversi suhu antar satuan Celcius, Fahrenheit, Reamur, dan Kelvin.</string>
+    <string-array name="opsi_konversi">
+<item>Celsius ke Reamur</item>
+<item>Celsius ke Reamur</item>
+    <item>Celsius ke Fahrenheit</item>
+    <item>Celsius ke Kelvin</item>
+    <item>Reamur ke Celsius</item>
+    <item>Reamur ke Fahrenheit</item>
+    <item>Reamur ke Kelvin</item>
+    <item>Fahrenheit ke Celsius</item>
+    <item>Fahrenheit ke Reamur</item>
+    <item>Fahrenheit ke Kelvin</item>
+    <item>Kelvin ke Celsius</item>
+    <item>Kelvin ke Reamur</item>
+    <item>Kelvin ke Fahrenheit</item>
+    </string-array>
+</resources>
