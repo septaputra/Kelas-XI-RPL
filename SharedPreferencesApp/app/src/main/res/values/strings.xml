@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="hint_nama_barang">Masukkan nama barang</string>
+    <string name="hint_stok_barang">Masukkan stok barang</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_tampil">Tampil</string>
+    <string name="label_nama_barang">Nama Barang:</string>
+    <string name="label_stok_barang">Stok Barang:</string>
+    <string name="text_kosong">Data belum tersimpan</string>
+    <string name="pesan_simpan_berhasil">Data berhasil disimpan!</string>
+    <string name="pesan_error">Terjadi kesalahan. Pastikan input valid.</string>
+</resources>
