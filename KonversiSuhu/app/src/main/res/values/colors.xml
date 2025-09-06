@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryVariant">#1565C0</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="backgroundMain">#E3F2FD</color>
+    <!-- warna tambahan -->
+    <color name="colorSecondary">#43A047</color>
+    <color name="colorError">#D32F2F</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>
