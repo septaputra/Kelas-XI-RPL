@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">RecyclerView Layout Project</string>
-    <string name="item_title">Item Title</string>
-    <string name="item_description">Item Description</string>
-    <string name="hello_world">Hello World!</string>
-</resources>
