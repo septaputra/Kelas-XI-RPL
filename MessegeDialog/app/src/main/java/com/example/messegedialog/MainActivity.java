@@ -51,13 +51,15 @@ public class MainActivity extends AppCompatActivity {
 
                 builder.setPositiveButton("Ya", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
-                        Toast.makeText(getApplicationContext(), "Anda memilih Ya", Toast.LENGTH_SHORT).show();
+                        // Membuka tampilan baru (NewActivity) dari package yang benar
+                        android.content.Intent intent = new android.content.Intent(MainActivity.this, com.example.messegedialog.NewActivity.class);
+                        startActivity(intent);
                     }
                 });
 
                 builder.setNegativeButton("Tidak", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
-                        Toast.makeText(getApplicationContext(), "Anda memilih Tidak", Toast.LENGTH_SHORT).show();
+                        // Tidak melakukan apa-apa, dialog akan tertutup
                     }
                 });
 
